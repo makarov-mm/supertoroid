@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="supertoroid.vcxproj" />
+  <Project Path="supertoroid.vcxproj" Id="4629bf93-151c-42c2-aacd-f762ff5bd01a" />
 </Solution>
